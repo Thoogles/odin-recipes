@@ -1,0 +1,22 @@
+body {
+    font-family: arial, verdana, sans-serif;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(235, 176, 139)
+}
+
+.unmarked-list {
+    list-style: none;
+}
+
+.centered {
+    text-align: center;
+}
+
+.main-colors {
+    background-color: rgb(44, 79, 44);
+    color: rgb(157, 59, 20);
+}
